@@ -6,3 +6,7 @@ modify once
 
 Git tracks changes of files
 modify again
+
+modify third
+
+modify fourth
